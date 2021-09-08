@@ -26,4 +26,4 @@ In this project, you will learn important tools that all programmers use. First,
 
 
 ## Acknowledgement:
-I'd like to thanks Udacity and Misk Foundation for this great opportunity.
+I'd like to thanks Udacity and Misk Skills for this great opportunity.
