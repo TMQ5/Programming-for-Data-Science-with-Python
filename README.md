@@ -2,7 +2,7 @@
 ![Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/f6490b33-df1d-4665-923d-b4c7f6c07960.svg)
 
 ## Overview
-This Nanodegree is provided by [Udacity](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) and sponsored by [Misk Foundation](https://hub.misk.org.sa/ar/programs/categories/root/skills/).
+This Nanodegree is provided by [Udacity](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) and sponsored by [Misk Skills](https://hub.misk.org.sa/ar/programs/categories/root/skills/).
 
 Learn the programming fundamentals required for a career in data science. By the end of the program, you will be able to use Python, SQL, Command Line, and Git.
 
