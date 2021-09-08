@@ -21,7 +21,7 @@ You will use Python to answer analytical questions about bikeshare trip data col
 
 ### Introduction to Version Control
 Learn how to use version control and share your work with other people in the data science industry.
-* [**Post your Work on GitHub**](https://github.com/TMQ5/Programming-for-Data-Science-with-Python/tree/main/Post%20your%20Work%20on%20GitHub)
+* [**Project3: Post your Work on GitHub**](https://github.com/TMQ5/Programming-for-Data-Science-with-Python/tree/main/Post%20your%20Work%20on%20GitHub)
 In this project, you will learn important tools that all programmers use. First, you’ll get an introduction to working in the terminal. Next, you’ll learn to use git and Github to manage versions of a program and collaborate with others on programming projects. You will post two different versions of a Jupyter Notebook capturing your learnings from the course, and add commits to your project Git repository.
 
 
